@@ -1,0 +1,10 @@
+https://github.com/WilliWonk?tab=repositories
+
+
+md ajkula
+cd ajkula
+git init
+touch alpha.txt
+napisao nesto unutra
+git status
+
