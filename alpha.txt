@@ -10,6 +10,6 @@ git status
 git add .
 git commit -m "alpha"
 git log
-git remote https://github.com/WilliWonk/ajkula.git
+git git remote https://github.com/WilliWonk/ajkula.git
 git remote -v
 git push -u origin master
